@@ -23,7 +23,6 @@
 - [Results Summary](#-results-summary)
 - [Deployment](#-deployment)
 - [Future Work](#-future-work)
-- [License](#-license)
 - [Author](#-author)
 
 ---
