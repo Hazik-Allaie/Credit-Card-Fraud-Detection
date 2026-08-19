@@ -224,7 +224,7 @@ streamlit run app.py
 2. Go to [share.streamlit.io](https://share.streamlit.io) → Sign in with GitHub
 3. Click **New app** → Select your repo → Branch: `main` → Main file: `app.py`
 4. Click **Deploy!**
-5. Get a live URL: `https://<your-app-name>.streamlit.app`
+5. Get a live URL: `https://credit-card-fraud-detection-byhaziq.streamlit.app/
 
 > **Note:** `model.pkl` (≈50 MB) is tracked via Git LFS or included directly. Streamlit Cloud installs `requirements.txt` automatically.
 
@@ -260,7 +260,7 @@ CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0
 📧 allaiehaziq786@gmail.com
 
 > Built as a hands-on ML portfolio project — every phase documented, every decision explained, every result honest.
-
+**Live url** : https://credit-card-fraud-detection-byhaziq.streamlit.app/ 
 ---
 
 ⭐ **If this project helped you learn, consider starring the repo!**  
